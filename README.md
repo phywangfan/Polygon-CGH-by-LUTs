@@ -1,4 +1,4 @@
-# Polygon-CGH-by-LUTs
+# Polygon CGH using LUTs method
 Firstly, Running "Main2_generate_LUTs.m" to build look up tables and save the data into hardware( "E:\hologramLUTs\" by default).  
 And then, running "Main1_generate_polygon_CGH.m" to generate holograms.  
 
